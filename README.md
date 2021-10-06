@@ -136,7 +136,7 @@ and then show the picture in the view.
 If user want to do any interaction after the animation finishes, the endTick of model
 will extend and more description will be allowed to add.
 
-####New change:
+#### New change:
 1. We add a new shape, Plus, which will represent a plus sign in our animation.
 2. We add a new command argument, -slow, which allows the user to give a txt represent the 
 slow motion interval for animation. The format of slow txt should be like "10 100". The first 
