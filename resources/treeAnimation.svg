@@ -1,0 +1,45 @@
+<svg width='800' height='800' version='1.1' xmlns='http://www.w3.org/2000/svg'>
+<rect id='background' x='0' y='0' width='800' height='800' fill='rgb(3,152,252)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='fill' begin='5000ms' dur='4000ms' from='rgb(3,152,252)' to='rgb(10,75,207)' fill='freeze'/>
+</rect>
+<rect id='stem' x='120' y='400' width='100' height='326' fill='rgb(160,82,45)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+</rect>
+<rect id='grass' x='0' y='850' width='800' height='100' fill='rgb(67,138,45)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='y' begin='100ms' dur='3900ms' from='850' to='700' fill='freeze'/>
+</rect>
+<ellipse id='leaf1' cx='275' cy='-125' rx='75' ry='75' fill='rgb(103,194,76)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='cy' begin='100ms' dur='9900ms' from='-125' to='275' fill='freeze'/>
+</ellipse>
+<ellipse id='leaf2' cx='225' cy='-235' rx='75' ry='65' fill='rgb(103,194,76)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='cy' begin='100ms' dur='9900ms' from='-235' to='365' fill='freeze'/>
+</ellipse>
+<ellipse id='leaf3' cx='125' cy='-235' rx='75' ry='65' fill='rgb(103,194,76)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='cy' begin='100ms' dur='9900ms' from='-235' to='365' fill='freeze'/>
+</ellipse>
+<ellipse id='leaf4' cx='75' cy='-125' rx='75' ry='75' fill='rgb(103,194,76)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='cy' begin='100ms' dur='9900ms' from='-125' to='275' fill='freeze'/>
+</ellipse>
+<ellipse id='leaf5' cx='175' cy='-125' rx='75' ry='75' fill='rgb(103,194,76)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='cy' begin='100ms' dur='9900ms' from='-125' to='275' fill='freeze'/>
+</ellipse>
+<ellipse id='leaf6' cx='225' cy='-35' rx='75' ry='65' fill='rgb(103,194,76)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='cy' begin='100ms' dur='9900ms' from='-35' to='165' fill='freeze'/>
+</ellipse>
+<ellipse id='leaf7' cx='125' cy='-35' rx='75' ry='65' fill='rgb(103,194,76)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='cy' begin='100ms' dur='9900ms' from='-35' to='165' fill='freeze'/>
+</ellipse>
+<ellipse id='lake' cx='650' cy='950' rx='150' ry='50' fill='rgb(0,200,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='cy' begin='5000ms' dur='4000ms' from='950' to='750' fill='freeze'/>
+</ellipse>
+</svg>

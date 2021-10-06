@@ -1,0 +1,61 @@
+<svg width='800' height='800' version='1.1' xmlns='http://www.w3.org/2000/svg'>
+<polygon id='cross1' points='37,900 112,900 112,937 150,937 150,1012 112,1012 112,1050 37,1050 37,1012 0,1012 0,937 37,937' fill='rgb(248,248,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='-113,900 -38,900 -38,937 0,937 0,1012 -38,1012 -38,1050 -113,1050 -113,1012 -150,1012 -150,937 -113,937' to='37,207 112,207 112,244 150,244 150,319 112,319 112,357 37,357 37,319 0,319 0,244 37,244' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='-113,900 -38,900 -38,937 0,937 0,1012 -38,1012 -38,1050 -113,1050 -113,1012 -150,1012 -150,937 -113,937' to='37,207 112,207 112,244 150,244 150,319 112,319 112,357 37,357 37,319 0,319 0,244 37,244' fill='freeze'/>
+<animate attributeType='xml' attributeName='fill' begin='20ms' dur='1980ms' from='rgb(248,248,255)' to='rgb(0,0,0)' fill='freeze'/>
+</polygon>
+<polygon id='cross3' points='187,900 262,900 262,937 300,937 300,1012 262,1012 262,1050 187,1050 187,1012 150,1012 150,937 187,937' fill='rgb(248,248,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='217,900 292,900 292,937 330,937 330,1012 292,1012 292,1050 217,1050 217,1012 180,1012 180,937 217,937' to='187,207 262,207 262,244 300,244 300,319 262,319 262,357 187,357 187,319 150,319 150,244 187,244' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='217,900 292,900 292,937 330,937 330,1012 292,1012 292,1050 217,1050 217,1012 180,1012 180,937 217,937' to='187,207 262,207 262,244 300,244 300,319 262,319 262,357 187,357 187,319 150,319 150,244 187,244' fill='freeze'/>
+<animate attributeType='xml' attributeName='fill' begin='20ms' dur='1980ms' from='rgb(248,248,255)' to='rgb(0,0,0)' fill='freeze'/>
+</polygon>
+<polygon id='cross2' points='112,-100 197,-100 197,-58 240,-58 240,27 197,27 197,70 112,70 112,27 70,27 70,-58 112,-58' fill='rgb(248,248,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='112,-100 197,-100 197,-58 240,-58 240,27 197,27 197,70 112,70 112,27 70,27 70,-58 112,-58' to='112,80 197,80 197,122 240,122 240,207 197,207 197,250 112,250 112,207 70,207 70,122 112,122' fill='freeze'/>
+<animate attributeType='xml' attributeName='fill' begin='20ms' dur='1980ms' from='rgb(248,248,255)' to='rgb(100,100,100)' fill='freeze'/>
+</polygon>
+<polygon id='cross4' points='337,900 412,900 412,937 450,937 450,1012 412,1012 412,1050 337,1050 337,1012 300,1012 300,937 337,937' fill='rgb(248,248,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='437,900 512,900 512,937 550,937 550,1012 512,1012 512,1050 437,1050 437,1012 400,1012 400,937 437,937' to='337,207 412,207 412,244 450,244 450,319 412,319 412,357 337,357 337,319 300,319 300,244 337,244' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='437,900 512,900 512,937 550,937 550,1012 512,1012 512,1050 437,1050 437,1012 400,1012 400,937 437,937' to='337,207 412,207 412,244 450,244 450,319 412,319 412,357 337,357 337,319 300,319 300,244 337,244' fill='freeze'/>
+<animate attributeType='xml' attributeName='fill' begin='20ms' dur='1980ms' from='rgb(248,248,255)' to='rgb(0,0,0)' fill='freeze'/>
+</polygon>
+<polygon id='cross6' points='487,900 562,900 562,937 600,937 600,1012 562,1012 562,1050 487,1050 487,1012 450,1012 450,937 487,937' fill='rgb(248,248,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='587,900 662,900 662,937 700,937 700,1012 662,1012 662,1050 587,1050 587,1012 550,1012 550,937 587,937' to='487,207 562,207 562,244 600,244 600,319 562,319 562,357 487,357 487,319 450,319 450,244 487,244' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='587,900 662,900 662,937 700,937 700,1012 662,1012 662,1050 587,1050 587,1012 550,1012 550,937 587,937' to='487,207 562,207 562,244 600,244 600,319 562,319 562,357 487,357 487,319 450,319 450,244 487,244' fill='freeze'/>
+<animate attributeType='xml' attributeName='fill' begin='20ms' dur='1980ms' from='rgb(248,248,255)' to='rgb(0,0,0)' fill='freeze'/>
+</polygon>
+<polygon id='cross5' points='412,-100 497,-100 497,-58 540,-58 540,27 497,27 497,70 412,70 412,27 370,27 370,-58 412,-58' fill='rgb(248,248,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='612,-100 697,-100 697,-58 740,-58 740,27 697,27 697,70 612,70 612,27 570,27 570,-58 612,-58' to='412,80 497,80 497,122 540,122 540,207 497,207 497,250 412,250 412,207 370,207 370,122 412,122' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='612,-100 697,-100 697,-58 740,-58 740,27 697,27 697,70 612,70 612,27 570,27 570,-58 612,-58' to='412,80 497,80 497,122 540,122 540,207 497,207 497,250 412,250 412,207 370,207 370,122 412,122' fill='freeze'/>
+<animate attributeType='xml' attributeName='fill' begin='20ms' dur='1980ms' from='rgb(248,248,255)' to='rgb(100,100,100)' fill='freeze'/>
+</polygon>
+<polygon id='cross7' points='262,-100 347,-100 347,-58 390,-58 390,27 347,27 347,70 262,70 262,27 220,27 220,-58 262,-58' fill='rgb(248,248,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='292,-100 377,-100 377,-58 420,-58 420,27 377,27 377,70 292,70 292,27 250,27 250,-58 292,-58' to='262,80 347,80 347,122 390,122 390,207 347,207 347,250 262,250 262,207 220,207 220,122 262,122' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='292,-100 377,-100 377,-58 420,-58 420,27 377,27 377,70 292,70 292,27 250,27 250,-58 292,-58' to='262,80 347,80 347,122 390,122 390,207 347,207 347,250 262,250 262,207 220,207 220,122 262,122' fill='freeze'/>
+<animate attributeType='xml' attributeName='fill' begin='20ms' dur='1980ms' from='rgb(248,248,255)' to='rgb(100,100,100)' fill='freeze'/>
+</polygon>
+<polygon id='cross8' points='171,-100 253,-100 253,-59 295,-59 295,23 253,23 253,65 171,65 171,23 130,23 130,-59 171,-59' fill='rgb(248,248,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='0ms' from='171,-100 253,-100 253,-59 295,-59 295,23 253,23 253,65 171,65 171,23 130,23 130,-59 171,-59' to='197,-100 262,-100 262,-68 295,-68 295,-3 262,-3 262,30 197,30 197,-3 165,-3 165,-68 197,-68' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='0ms' from='171,-100 253,-100 253,-59 295,-59 295,23 253,23 253,65 171,65 171,23 130,23 130,-59 171,-59' to='197,-100 262,-100 262,-68 295,-68 295,-3 262,-3 262,30 197,30 197,-3 165,-3 165,-68 197,-68' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='171,-100 253,-100 253,-59 295,-59 295,23 253,23 253,65 171,65 171,23 130,23 130,-59 171,-59' to='197,-16 262,-16 262,16 295,16 295,81 262,81 262,114 197,114 197,81 165,81 165,16 197,16' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='171,-100 253,-100 253,-59 295,-59 295,23 253,23 253,65 171,65 171,23 130,23 130,-59 171,-59' to='197,-16 262,-16 262,16 295,16 295,81 262,81 262,114 197,114 197,81 165,81 165,16 197,16' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='171,-100 253,-100 253,-59 295,-59 295,23 253,23 253,65 171,65 171,23 130,23 130,-59 171,-59' to='197,-16 262,-16 262,16 295,16 295,81 262,81 262,114 197,114 197,81 165,81 165,16 197,16' fill='freeze'/>
+<animate attributeType='xml' attributeName='fill' begin='20ms' dur='1980ms' from='rgb(248,248,255)' to='rgb(160,82,45)' fill='freeze'/>
+</polygon>
+<polygon id='cross9' points='271,-100 353,-100 353,-59 395,-59 395,23 353,23 353,65 271,65 271,23 230,23 230,-59 271,-59' fill='rgb(248,248,255)' visibility='hidden'>
+<set attributeType='xml' attributeName='visibility' begin='0.000000s' to='visible'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='0ms' from='271,-100 353,-100 353,-59 395,-59 395,23 353,23 353,65 271,65 271,23 230,23 230,-59 271,-59' to='232,-100 297,-100 297,-68 330,-68 330,-3 297,-3 297,30 232,30 232,-3 200,-3 200,-68 232,-68' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='0ms' from='271,-100 353,-100 353,-59 395,-59 395,23 353,23 353,65 271,65 271,23 230,23 230,-59 271,-59' to='232,-100 297,-100 297,-68 330,-68 330,-3 297,-3 297,30 232,30 232,-3 200,-3 200,-68 232,-68' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='271,-100 353,-100 353,-59 395,-59 395,23 353,23 353,65 271,65 271,23 230,23 230,-59 271,-59' to='347,-16 412,-16 412,16 445,16 445,81 412,81 412,114 347,114 347,81 315,81 315,16 347,16' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='271,-100 353,-100 353,-59 395,-59 395,23 353,23 353,65 271,65 271,23 230,23 230,-59 271,-59' to='347,-16 412,-16 412,16 445,16 445,81 412,81 412,114 347,114 347,81 315,81 315,16 347,16' fill='freeze'/>
+<animate attributeType='xml' attributeName='points' begin='20ms' dur='1980ms' from='271,-100 353,-100 353,-59 395,-59 395,23 353,23 353,65 271,65 271,23 230,23 230,-59 271,-59' to='347,-16 412,-16 412,16 445,16 445,81 412,81 412,114 347,114 347,81 315,81 315,16 347,16' fill='freeze'/>
+<animate attributeType='xml' attributeName='fill' begin='20ms' dur='1980ms' from='rgb(248,248,255)' to='rgb(160,82,45)' fill='freeze'/>
+</polygon>
+</svg>
