@@ -74,7 +74,7 @@ provided by the user and translate them into actual commands for the model.
  provided. The animation generated sorts this list of bars based on their height (smallest to highest).
  It traverses the list and performs the swaps needed based on the bubble sort algorithm.
 
-## Design Choices (New)
+## Design Choices
 #### Model Package
 1. We were happy with our previous version of our animation model worked, so we did not implement any
  major changes to the model package in this assignment.
